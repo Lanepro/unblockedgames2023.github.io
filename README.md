@@ -3,7 +3,7 @@ Links to All Working Sites:
 
 Slope Game: https://mmtrucefacts.github.io/quickfacts/
 
-Retro Bowl Game:(Broken Will possibly be fixed) https://mmtrucefacts.github.io/Retro/
+Retro Bowl Game:( Broken Will possibly be fixed ) https://mmtrucefacts.github.io/Retro/
 
 Incremancer Zombie Game: https://mmtrucefacts.github.io/Afav/
 
